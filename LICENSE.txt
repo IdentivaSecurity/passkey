@@ -1,0 +1,14 @@
+JUST MAKERS LICENSE For electronic devices, version 0.9
+Date: 08-20-2014
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION.
+
+This license grants each “maker” a non-commercial license to make and personally use an electronic device implementing the work of authorship and invention(s) being licensed, where a “maker” is defined as a natural person that builds every of such devices by hand soldering to a PCB (etched copper substrate) all semiconductors components of the electronic device and all passive components, and where there is at least one of such components.
+
+This license also grants to anyone (a “seller”) a commercial license to distribute such components if they are not soldered.
+
+This license allows making reproductions and derivative works of authorship such as source code, and their distribution under this same license provided that attribution of original authors is preserved, and any modification is identified, and all source code is included together with this license. This license encourages the advance of technology and benefit of makers but at the same time respects the creative efforts of all the inventors, thus if any restrictions from patent protection is applicable at any time, they apply except for sellers and makers to whom the patent right holders covenants not to enforce any such patents against them.
+
+ALL UNDER LICENSE IS IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. IT IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND  FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF ANYTHING IS WITH THE LICENSEE. SHOULD ANYTHING PROVE DEFECTIVE, THE LICENSEE ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW THE LICENSOR WILL BE LIABLE FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE  (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY THE LICENSEE OR THIRD PARTIES OR A FAILURE TO OPERATE), EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
