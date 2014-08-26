@@ -1,4 +1,4 @@
-JUST MAKERS LICENSE For electronic devices, version 0.9
+JUST MAKERS LICENSE For electronic devices, version 0.9.1
 Date: 08-25-2014
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION.
